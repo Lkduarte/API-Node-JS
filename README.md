@@ -79,5 +79,4 @@ $ yarn dev ou npm run dev
 
 Feito por Lucas Nunes Duarte Do Nascimento :wave::wave: Entre em contato!🚀
 
-<a href="https://www.linkedin.com/in/lucas-nunes-nascimento/">
-</a>
+[LinkedIn](https://www.linkedin.com/in/lucas-nunes-nascimento/)
