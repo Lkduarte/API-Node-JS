@@ -73,6 +73,7 @@ $ yarn ou npm install
 # Execute aplicação;
 $ yarn dev ou npm run dev
 # O app vai estar rodando na porta 3333 - acesse <http://localhost:3333>
+# Não se esqueça de alterar a Connection String no Server para a sua conexão.
 ```
 
 ## :man: Autor
